@@ -1,0 +1,1 @@
+SELECT * FROM HoraCaptacion WHERE FechaCaptacion BETWEEN '20240101' and '20240130'

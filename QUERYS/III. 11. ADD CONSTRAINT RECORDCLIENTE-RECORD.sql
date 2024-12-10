@@ -1,0 +1,3 @@
+ALTER TABLE RecordCliente 
+ADD CONSTRAINT FK_IdRecord FOREIGN KEY (IdRecord)
+REFERENCES Record (IdRecord)
